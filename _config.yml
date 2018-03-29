@@ -7,17 +7,13 @@
 url: "http://brunorr.github.io"
 baseurl: ""
 
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: BrunoRR Website
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: !
 
 # --- Navigation bar options --- #
 
@@ -67,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Bruno R. Rosa
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: true
-  email: "brunoroman@gmail.com"
+  email: "brunorr.sec@protonmail.com"
   #facebook: daattali
   github: brunorr
   #twitter: daattali
@@ -102,7 +98,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "BrunoRR.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
