@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Write-Ups:
+  Write-Ups: "tags#writeup"
     - Crypto: "tags#crypto"
     - Forensic: "tags#forensic"    
     - Prog: "tags#prog"
