@@ -4,13 +4,19 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
+
+<!--  
+	PROJECTS
+-->
+{%- assign gh-user = "brunorr"-%}
+
 <h1 class="text-center">My Projects</h1>
 <div class="spacer"></div>
+
+{%- assign gh-project = "" -%}
 <div class="row text-center">
   <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
-    <div class="project-card">
-      {%- assign gh-user = "brunorr"-%}
-      {%- assign gh-project = "" -%}
+    <div class="project-card">      
       <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Github Poject Page">
         <span class="fa-stack fa-4x">
           <i class="fa fa-circle fa-stack-2x stack-color"></i>
@@ -23,6 +29,25 @@ use-site-title: true
     </div>
   </div>
 
+{%- assign gh-project = "" -%}
+<div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+    <div class="project-card">
+      <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Github Poject Page">
+        <span class="fa-stack fa-4x">
+          <i class="fa fa-circle fa-stack-2x stack-color"></i>
+          <i class="fa fa-file-code-o fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4>{{- gh-project -}}</h4>
+        <hr class="seperator">
+        <p class="text-muted"></p>        
+      </a>
+    </div>
+  </div>
+
+<!--  
+	END PROJECTS
+-->
+	
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
