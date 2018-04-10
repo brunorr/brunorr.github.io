@@ -772,3 +772,16 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/*
+  CUSTOM
+*/
+
+.project-card {
+    padding: 10px;
+    width: 230px;
+    min-height: 300px;
+    /* Need to fix horzontal alignment for grid system */
+    float: none;
+    margin: 0 auto 25px auto;
+}
