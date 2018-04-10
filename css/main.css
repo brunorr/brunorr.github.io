@@ -785,3 +785,8 @@ td.gutter {
     float: none;
     margin: 0 auto 25px auto;
 }
+
+.text-muted {
+    color: #808080;
+    font-size: 14px;
+}
