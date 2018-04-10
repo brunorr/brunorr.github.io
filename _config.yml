@@ -20,7 +20,7 @@ description: !
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "posts"
+  Blog:
     - Posts: "posts"
     - Tags: "tags"
   Projects:
