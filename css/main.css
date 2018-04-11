@@ -806,10 +806,22 @@ a.project-link:hover {
     font-size: 24px;
 }
 
-.copyright.text-muted {
-    margin-top: 15px;
-}
-
 .projetos {
   margin-top: 40px;
+}
+
+.seperator {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  border-color: #aaa;  
+}
+
+.spacer {
+  height: 10px;
+  padding: 0;
+  margin: 5px;
+}
+
+.copyright.text-muted {
+    margin-top: 15px;
 }
