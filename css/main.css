@@ -786,6 +786,12 @@ td.gutter {
     margin: 0 auto 25px auto;
 }
 
+a.project-link:link, a.project-link:visited {
+  text-decoration: none;
+  color: #404040;  
+}
+
+
 .text-muted {
     color: #808080;
     font-size: 16px;
