@@ -6,6 +6,9 @@ use-site-title: true
 css: '/css/main.css'
 ---
 
+<div class="row">
+	<div class="col-md-7 col-md-offset-2">
+
 <!--  
 	PROJECTS
 -->
@@ -44,11 +47,11 @@ css: '/css/main.css'
       </a>
     </div>
   </div>
-
+		</div>
 <!--  
 	END PROJECTS
 -->
-	
+	<div class="col-md-3 col-sm-12">
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -114,3 +117,5 @@ css: '/css/main.css'
   {% endif %}
 </ul>
 {% endif %}
+	</div>
+	</div>
