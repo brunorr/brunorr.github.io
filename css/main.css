@@ -791,6 +791,10 @@ a.project-link:link, a.project-link:visited {
   color: #404040;  
 }
 
+a.project-link:hover {  
+  color: #red;
+}
+
 
 .text-muted {
     color: #808080;
