@@ -786,6 +786,12 @@ td.gutter {
     margin: 0 auto 25px auto;
 }
 
+.project-card p.text-muted {    
+    margin-top: 15px;
+    margin-bottom: 10px;
+    min-height: 5em;
+}
+
 a.project-link:link, a.project-link:visited {
   text-decoration: none;
   color: #404040;  
