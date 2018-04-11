@@ -790,3 +790,7 @@ td.gutter {
     color: #808080;
     font-size: 16px;
 }
+
+.posts-list .post-title {
+    font-size: 24px;
+}
