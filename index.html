@@ -8,6 +8,44 @@ css: '/css/main.css'
 
 <div class="row">
 	<div class="col-md-7 col-md-offset-2">
+		<!--  PROJECTS  -->
+		{%- assign gh-user = "brunorr"-%}
+
+			<h1 class="text-center">My Projects</h1>
+			<div class="spacer"></div>
+
+			{%- assign gh-project = "" -%}
+			<div class="row text-center">
+			  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+			    <div class="project-card">      
+			      <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Github Poject Page">
+			        <span class="fa-stack fa-4x">
+			          <i class="fa fa-circle fa-stack-2x stack-color"></i>
+			          <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+			        </span>
+			        <h4>{{- gh-project -}}</h4>
+			        <hr class="seperator">
+			        <p class="text-muted">A simple GUI to view SQLMAP dump archives. VERY old implementation. [Discontinued]</p>
+			      </a>
+			    </div>
+			  </div>
+
+			  {%- assign gh-project = "" -%}
+			  <div class="col-md-4 col-md-offset-0 col-sm-4 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+			    <div class="project-card">
+			      <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Github Poject Page">
+			        <span class="fa-stack fa-4x">
+			          <i class="fa fa-circle fa-stack-2x stack-color"></i>
+			          <i class="fa fa-file-code-o fa-stack-1x fa-inverse"></i>
+			        </span>
+			        <h4>{{- gh-project -}}</h4>
+			        <hr class="seperator">
+			        <p class="text-muted"> ABC </p>        
+			      </a>
+			    </div>
+			  </div>
+			</div>
+		<!--  END PROJECTS  -->
 
 	</div>
 
