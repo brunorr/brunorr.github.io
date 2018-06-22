@@ -12,6 +12,22 @@ css: '/css/main.css'
 
    <h1 class="text-center">My Projects</h1>
       <div class="spacer"></div>
+   
+      {%- assign gh-project = "drupalgeddon2Mod" -%}
+      <div class="row text-center projetos">
+         <div class="col-md-5 col-md-offset-1 col-sm-5 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center">
+            <div class="project-card">      
+               <a target="_blank" href="https://github.com/{{- gh-user -}}/{{- gh-project -}}" class="project-link" title="Github Poject Page">
+                  <span class="fa-stack fa-4x">
+                     <i class="fa fa-circle fa-stack-2x stack-color"></i>
+                     <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <h4>{{- gh-project -}}</h4>
+                  <hr class="seperator">
+                  <p class="text-muted">My take on the CVE-2018-7600. Based on the original Drupalgeddon 2.</p>
+               </a>
+            </div>
+         </div>
 
       {%- assign gh-project = "teste" -%}
       <div class="row text-center projetos">
