@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSCP - The Journey Begins
-tags: [oscp]
+tags: [oscp][pwk]
 ---
 
 Just received the materials for the PWK (Penetration Testing with Kali Linux) course. The first step to the OSCP certification. 
