@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSCP - The Journey Begins
+title: OSCP: The Journey Begins
 tags: [oscp,pwk]
 ---
 
