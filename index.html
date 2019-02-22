@@ -7,6 +7,7 @@ css: '/css/main.css'
 ---
 
 <div class="col-md-7 col-md-offset-1">
+   
    <!--  PROJECTS  -->
    {%- assign gh-user = "brunorr"-%}
 
@@ -65,10 +66,13 @@ css: '/css/main.css'
 
 </div>
 
+
 <div class="col-md-3 col-md-offset-1 col-sm-12">
+   
+   <!--  RIGHT SIDE POSTS  -->
    <h1 class="text-center">Latest Posts</h1>
    <div class="posts-list">
-         {% for post in paginator.posts %}
+         {% for post in paginator.posts limit:3%}
             <article class="post-preview">
                <a href="{{ post.url | prepend: site.baseurl }}">
                   <h2 class="post-title">{{ post.title }}</h2>
@@ -115,5 +119,5 @@ css: '/css/main.css'
             </article>
          {% endfor %}
    </div>  
-
+   <!--  END RIGHT SIDE POSTS  -->
 </div>
