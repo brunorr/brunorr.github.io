@@ -831,3 +831,9 @@ a.project-link:hover {
 .copyright.text-muted {
     margin-top: 15px;
 }
+
+.tag-box {
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
