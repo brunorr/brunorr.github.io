@@ -837,7 +837,7 @@ a.project-link:hover {
   border-radius: 4px;
 }
 
-.tag-box:hover{
+.tag-box a:hover{
   border: 1px solid black;
   border-radius: 4px;
 }
