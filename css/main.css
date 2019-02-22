@@ -315,7 +315,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    padding: 25px 0;
   }
 }
 
@@ -397,7 +397,7 @@ footer .theme-by {
 .blog-tags a {
   color: {{ site.link-col }};
   text-decoration: none;
-  padding: 0px 5px;
+  padding: 1px 6px 3px 6px;
 }
 
 .blog-tags a:hover {
