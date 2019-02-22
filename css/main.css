@@ -376,7 +376,7 @@ footer .theme-by {
   width: 192px;
 }
 .post-preview .post-read-more {
-  font-weight: 800;
+  font-weight: 700;
 }
 
 @media only screen and (min-width: 768px) {
@@ -830,6 +830,8 @@ a.project-link:hover {
 .copyright.text-muted {
     margin-top: 15px;
 }
+
+/* --- CUSTOM --- */
 
 .tag-box {
   border: 1px solid black;
