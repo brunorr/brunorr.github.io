@@ -400,8 +400,7 @@ footer .theme-by {
   padding: 1px 6px 3px 6px;
 }
 
-.blog-tags a:hover {
-  border-radius: 2px;
+.blog-tags a:hover {  
   color: {{ site.hover-col }};
   background-color: #EEE;
 }
