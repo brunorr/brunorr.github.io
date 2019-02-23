@@ -353,6 +353,7 @@ footer .theme-by {
 }
 .post-preview .post-entry {
   font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 17px;
 }
 .post-entry-container {
   display: inline-block;
