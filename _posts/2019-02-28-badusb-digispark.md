@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BadUSB - Digispark
+title: BadUSB With a Digispark
 tags: [badusb,digispark,hid]
 ---
 
