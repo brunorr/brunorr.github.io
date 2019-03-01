@@ -22,5 +22,9 @@ tags: [badusb,digispark,hid]
 
 ## References
 
-1. A
-2. B
+1. https://digistump.com
+2. https://digistump.com/wiki/digispark/tricks
+3. https://digistump.com/wiki/digispark/tutorials/connecting
+4. http://digistump.com/board/index.php/topic,320.0.html
+5. https://github.com/micronucleus/micronucleus
+6. https://github.com/micronucleus/micronucleus/tree/v1.11/upgrade/releases
