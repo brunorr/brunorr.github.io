@@ -10,14 +10,15 @@ tags: [badusb,digispark,hid]
 {: .box-warning} 
 **Warning 2:** I hold no responsability if any problems happens while you are following this post. From a brick Digispark to whatever you did wrong. =P
 
+
 ## Intro
 
 ## Hardware Used
 
 ## Let's start
 
-### Test
-### Test 2
+#### Test
+#### Test 2
 
 ## References
 
