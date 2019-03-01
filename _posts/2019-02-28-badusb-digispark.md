@@ -22,3 +22,5 @@ tags: [badusb,digispark,hid]
 
 ## References
 
+1. A
+2. B
