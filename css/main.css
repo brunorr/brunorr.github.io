@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-family: 'Roboto', 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 17px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -787,6 +787,7 @@ td.gutter {
     /* Need to fix horzontal alignment for grid system */
     float: none;
     margin: 0 auto 25px auto;
+    font-size: 18px;
 }
 
 .project-card p.text-muted {    
