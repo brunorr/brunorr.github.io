@@ -22,7 +22,7 @@ tags: [badusb,digispark,hid]
 
 ## References
 
-1. (https://digistump.com)
+1. [https://digistump.com](https://digistump.com)
 2. https://digistump.com/wiki/digispark/tricks
 3. https://digistump.com/wiki/digispark/tutorials/connecting
 4. https://digistump.com/board/index.php/topic,320.0.html
