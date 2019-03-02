@@ -15,6 +15,11 @@ tags: [badusb,digispark,hid]
 
 ## Hardware Used
 
+All that i used for this project was:
+
+1x Digispark
+1x Jumper wire F/F (You will see later why)
+
 ## Let's start
 
 #### Test
