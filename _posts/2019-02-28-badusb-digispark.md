@@ -26,7 +26,10 @@ All that i used for this project was:
 
 #### Drivers and software instalations
 
-#### Test 2
+#### Programming
+
+#### Additional: Fast boot
+
 
 ## References
 
