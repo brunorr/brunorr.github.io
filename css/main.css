@@ -851,3 +851,7 @@ a.project-link:hover {
 .blog-post li {
   font-size: 17px;
 }
+
+li p {
+  margin: 15px 0;
+}
