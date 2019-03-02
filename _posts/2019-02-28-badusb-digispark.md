@@ -18,6 +18,7 @@ tags: [badusb,digispark,hid]
 All that i used for this project was:
 
 1x Digispark
+
 1x Jumper wire F/F (You will see later why)
 
 ## Let's start
