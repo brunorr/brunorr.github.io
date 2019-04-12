@@ -33,13 +33,11 @@ All that i used for this project was:
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
 
-## Let's start
+## Drivers and software instalations
 
-### Drivers and software instalations
+## Programming
 
-### Programming
-
-### Additional: Fast boot
+## Additional: Fast boot
 
 
 ## References
