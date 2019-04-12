@@ -12,7 +12,7 @@ I started this project because i wanted to learn more about these types of attac
 
 With Digispark costing around $1 and Micro Pro around $3, and mostly important, i could find both of these in my country, no need for imports. 
 
-That's enough talking, let's go to the fun part... but first:
+But that's enough of talking, let's go to the fun part... but first:
 
 
 {: .box-warning}
