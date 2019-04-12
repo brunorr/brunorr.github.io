@@ -35,11 +35,11 @@ All that i used for this project was:
 
 ## Let's start
 
-#### Drivers and software instalations
+### Drivers and software instalations
 
-#### Programming
+### Programming
 
-#### Additional: Fast boot
+### Additional: Fast boot
 
 
 ## References
