@@ -4,6 +4,8 @@ title: BadUSB With a Digispark
 tags: [badusb,digispark,hid]
 ---
 
+A bad usb device is notting more than 
+
 {: .box-warning}
 **Warning 1:** This content is for educational purposes only. Don't do wrong things with it. =)
 
@@ -19,7 +21,7 @@ All that i used for this project was:
 
 * 1x Digispark
 
-* 1x Jumper wire F/F (Why? Tell you later...)
+* 1x Jumper wire F/F (Only needed for the fastboot mod)
 
 
 ## Let's start
