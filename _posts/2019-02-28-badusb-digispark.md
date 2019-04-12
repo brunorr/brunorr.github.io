@@ -4,19 +4,17 @@ title: BadUSB With a Digispark
 tags: [badusb,digispark,hid]
 ---
 
-## Intro
-
 Bad USB is a term used when referring to a modified USB device that when connected to a computer, will act as a HID (Human Interface Device), like a keyboard. With the new "keyboard" installed in the system, it will simulate keystrokes in order to run pre-programmed malicius commands.
 
-This type of attack became very popular with the release of [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe), a Hak5 product that does exactly what i mentioned above.
+This type of attack became very popular with the release of [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe), a Hak5 product that does exactly what i mentioned above. Despite being an excellent product, isn't the cheapest "toy" a hacker can afford, costing $44.99 dollars. If you don't leave in the USA like me, add some more $$$ due to taxes and maybe months for the product arrive.
 
-Despite being an excellent product, isn't the cheapest "toy" a hacker can afford, costing $44.99 dollars. If you don't leave in the USA like me, add some more $$$ due to taxes.
+I started this project because i wanted to learn more about these types of attacks, and since i couldn't affoard a Rubber Ducky, nor wanted to buy an imported product and wait 1-2 months for it to arrive, i searched for some similar products. So i found some work being done with Digispark and Micro Pro (next post).
 
 {: .box-warning}
 **Warning 1:** This content is for educational purposes only. Don't do wrong things with it. =)
 
 {: .box-warning} 
-**Warning 2:** I hold no responsability if any problems happens while you are following this post. From a brick Digispark to whatever you did wrong. =P
+**Warning 2:** I hold no responsability if any problems that may happen while you are following this post. From a brick Digispark to whatever you did wrong. =P
 
 
 
