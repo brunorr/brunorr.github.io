@@ -21,7 +21,7 @@ But that's enough of talking, let's go to the fun part... but first:
 {: .box-warning} 
 **Warning 2:** I hold no responsability if any problems that may happen while you are following this post. From a brick Digispark to whatever you did wrong. =P
 
-
+\
 
 
 ## Hardware Used
