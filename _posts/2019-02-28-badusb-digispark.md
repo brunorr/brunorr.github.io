@@ -4,7 +4,8 @@ title: BadUSB With a Digispark
 tags: [badusb,digispark,hid]
 ---
 
-A bad usb device is notting more than 
+Bad USB is a term used when referring to a modified USB device that when connected to a computer, will act as a HID (Human Interface Device), like a keyboard. With the new "keyboard" installed in the system, it will simulate keystrokes in order to run pre-programmed malicius commands.
+This type of attack became very popular with the release of Rubber Ducky, a Hak5 product that does exactly what i mentioned above.
 
 {: .box-warning}
 **Warning 1:** This content is for educational purposes only. Don't do wrong things with it. =)
