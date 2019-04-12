@@ -23,7 +23,6 @@ But that's enough of talking, let's go to the fun part... but first:
 
 <br/>
 
-
 ## Hardware Used
 
 All that i used for this project was:
@@ -32,13 +31,19 @@ All that i used for this project was:
 
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
+<br/>
 
 ## Drivers and software instalations
 
+<br/>
+
 ## Programming
+
+<br/>
 
 ## Additional: Fast boot
 
+<br/>
 
 ## References
 
