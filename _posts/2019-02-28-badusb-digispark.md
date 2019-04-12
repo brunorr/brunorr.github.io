@@ -8,7 +8,10 @@ Bad USB is a term used when referring to a modified USB device that when connect
 
 This type of attack became very popular with the release of [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky-deluxe), a Hak5 product that does exactly what i mentioned above. Despite being an excellent product, isn't the cheapest "toy" a hacker can afford, costing $44.99 dollars. If you don't leave in the USA like me, add some more $$$ due to taxes and maybe months for the product arrive.
 
-I started this project because i wanted to learn more about these types of attacks, and since i couldn't affoard a Rubber Ducky, nor wanted to buy an imported product and wait 1-2 months for it to arrive, i searched for some similar products. So i found some work being done with Digispark and Micro Pro (next post).
+I started this project because i wanted to learn more about these types of attacks, and since i couldn't affoard a Rubber Ducky, nor wanted to buy an imported product and wait 1-2 months for it to arrive, i started to search for some similar products, and so i found some work being done with Digispark and Micro Pro (next post).
+
+With Digispark costing around $1 and Micro Pro around $3, and mostly important, i could find both of these in my country, no need for imports. That's enough talking, let's go to the fun part...
+
 
 {: .box-warning}
 **Warning 1:** This content is for educational purposes only. Don't do wrong things with it. =)
