@@ -54,9 +54,9 @@ All that i used for this project was:
 
 ## References
 
-\- [https://www.arduino.cc](https://www.arduino.cc)
-\- [https://digistump.com](https://digistump.com)
-2. [https://digistump.com/wiki/digispark/tricks](https://digistump.com/wiki/digispark/tricks)
+- [https://www.arduino.cc](https://www.arduino.cc)
+- [https://digistump.com](https://digistump.com)
+-. [https://digistump.com/wiki/digispark/tricks](https://digistump.com/wiki/digispark/tricks)
 3. [https://digistump.com/wiki/digispark/tutorials/connecting](https://digistump.com/wiki/digispark/tutorials/connecting)
 4. [https://digistump.com/board/index.php/topic,320.0.html](https://digistump.com/board/index.php/topic,320.0.html)
 5. [https://digistump.com/board/index.php?topic=175.0](https://digistump.com/board/index.php?topic=175.0)
