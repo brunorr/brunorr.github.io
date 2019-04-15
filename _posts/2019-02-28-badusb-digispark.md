@@ -38,7 +38,7 @@ All that i used for this project was:
 
 <br/>
 
-## Drivers and software instalations
+## Drivers and software instalation
 
 <br/>
 
