@@ -36,13 +36,13 @@ All that i used for this project was:
 <img src="../img/BadUSB - JumperFF.jpg" alt="drawing" width="200"/>
 
 
-<br/>
+
 
 ## Drivers and software instalation
-
-#### &nbsp;&nbsp;&nbsp; 1th step:
-
-&nbsp;&nbsp; Asdasd
+<br/>
+> #### 1th step:
+>
+> asdaa
 
 
 
