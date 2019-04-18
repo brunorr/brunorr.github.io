@@ -40,8 +40,8 @@ All that i used for this project was:
 
 ## Drivers and software instalation
 
-#### 1th step:
-asdasd
+#### :1th step:
+:asdasd
 
 
 
