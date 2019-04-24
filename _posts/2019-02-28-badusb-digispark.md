@@ -50,11 +50,18 @@ All that i used for this project was:
  File -> Preferences -> Additional Board Manager URLs
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And add the following url in the *Additional Board Manager* URLs field:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And add the following url in the *Additional Board Manager* field:
 ```perl
  http://digistump.com/package_digistump_index.json
 ```
-> http://digistump.com/package_digistump_index.json
+img
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, following the path below, in the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, and select **Digistump AVR Boards** package and install it.
+
+img
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 
