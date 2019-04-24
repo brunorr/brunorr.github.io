@@ -34,7 +34,7 @@ All that i used for this project was:
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
 <img src="../img/BadUSB - JumperFF.jpg" alt="drawing" width="200"/>
-<br>
+<br/>
 
 ## Drivers and software instalation
 
