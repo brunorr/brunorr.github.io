@@ -40,9 +40,11 @@ All that i used for this project was:
 ## Drivers and software instalation
 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step 1: Install Ard
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step 1: Installing Arduino IDE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asdaa
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We gonna use Arduino IDE to write our code and then upload it to out Digispark.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software), choose the right instalation file for your OS and download it.
 
 <h4>1th step:</h4> <p>Adasdas</p>
 
