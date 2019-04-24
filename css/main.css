@@ -855,3 +855,8 @@ a.project-link:hover {
 li p {
   margin: 15px 0;
 }
+
+.img-center {
+  display: block; 
+  margin: auto;
+}
