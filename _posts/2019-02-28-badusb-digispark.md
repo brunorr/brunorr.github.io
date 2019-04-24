@@ -29,11 +29,11 @@ All that i used for this project was:
 
 * 1x Digispark
 
-<img src="../img/BadUSB - Digispark.jpg" alt="drawing" width="200"/>
+<img src="../img/BadUSB - Digispark.jpg" width="200"/>
 
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
-<img src="../img/BadUSB - JumperFF.jpg" alt="drawing" width="200"/>
+<img src="../img/BadUSB - JumperFF.jpg" width="200"/>
 
 <br/>
 
@@ -56,7 +56,7 @@ All that i used for this project was:
  http://digistump.com/package_digistump_index.json
 ```
 
-<img src="../img/BadUSB - Install 1.png" alt="drawing" width="200"/>
+<img class="img-center" src="../img/BadUSB - Install 1.png" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, go to:
 ```perl
@@ -65,11 +65,11 @@ All that i used for this project was:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, select **Digistump AVR Boards** package and install it.
 
-<img src="../img/BadUSB - Install 2.png" alt="drawing" width="200"/>
+<img class="img-center" src="../img/BadUSB - Install 2.png" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you can select
 
-<img src="../img/BadUSB - Install 3.png" alt="drawing" width="200"/>
+<img class="img-center" src="../img/BadUSB - Install 3.png" width="200"/>
 
 
 
