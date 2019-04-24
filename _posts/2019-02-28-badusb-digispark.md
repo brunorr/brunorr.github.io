@@ -34,14 +34,12 @@ All that i used for this project was:
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
 <img src="../img/BadUSB - JumperFF.jpg" alt="drawing" width="200"/>
-
-
-
+<br>
 
 ## Drivers and software instalation
 
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1th step:
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1th step: Install Ard
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asdaa
 
