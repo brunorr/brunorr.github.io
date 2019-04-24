@@ -39,7 +39,7 @@ All that i used for this project was:
 
 ## Drivers and software instalation
 
-<div class="spacer"/>
+<div class="spacer"></div>
 
 #### &nbsp;&nbsp;&nbsp; Step 1: Installing and Configuring Arduino IDE
 
