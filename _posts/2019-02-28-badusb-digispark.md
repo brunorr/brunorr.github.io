@@ -54,9 +54,15 @@ All that i used for this project was:
 ```perl
  http://digistump.com/package_digistump_index.json
 ```
+
 img
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, following the path below, in the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, and select **Digistump AVR Boards** package and install it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, go to:
+```perl
+ Tools -> Board -> Boards Manager
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, select **Digistump AVR Boards** package and install it.
 
 img
 
