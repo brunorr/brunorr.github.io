@@ -39,6 +39,7 @@ All that i used for this project was:
 
 ## Drivers and software instalation
 
+
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step 1: Installing and Configuring Arduino IDE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First we gonna use Arduino IDE to write our code and then upload it to out Digispark. 
