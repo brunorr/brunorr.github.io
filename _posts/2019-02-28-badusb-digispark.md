@@ -56,7 +56,7 @@ All that i used for this project was:
  http://digistump.com/package_digistump_index.json
 ```
 
-img
+<img src="../img/BadUSB - Install 1.jpg" alt="drawing" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, go to:
 ```perl
@@ -65,11 +65,11 @@ img
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, select **Digistump AVR Boards** package and install it.
 
-img
+<img src="../img/BadUSB - Install 2.jpg" alt="drawing" width="200"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you can select
 
-
+<img src="../img/BadUSB - Install 3.jpg" alt="drawing" width="200"/>
 
 
 
