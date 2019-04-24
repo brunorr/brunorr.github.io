@@ -39,8 +39,8 @@ All that i used for this project was:
 
 
 ## Drivers and software instalation
-<br/>
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1th step:
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1th step:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Asdaa
 
