@@ -41,9 +41,12 @@ All that i used for this project was:
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step 1: Installing and Configuring Arduino IDE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First we gonna use Arduino IDE to write our code and then upload it to out Digispark. Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software) and download the right setup file for your OS. While installing, there's no need to change the default options, besides the directory you want to install it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First we gonna use Arduino IDE to write our code and then upload it to out Digispark. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software) and download the right setup file for your OS. While installing, there's no need to change the default options, besides the directory you want to install it.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After installed, open Arduino IDE and go to: File -> Preferences -> Additional Board Manager URLs
+
 
 
 <br/>
