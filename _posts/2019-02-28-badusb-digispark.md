@@ -47,7 +47,7 @@ All that i used for this project was:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After installed, open Arduino IDE and go to: 
 ```perl
-File -> Preferences -> Additional Board Manager URLs
+ File -> Preferences -> Additional Board Manager URLs
 ```
 
 
