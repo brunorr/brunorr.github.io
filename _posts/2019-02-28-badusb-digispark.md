@@ -70,11 +70,14 @@ Now you can select
 
 <a href="../img/BadUSB - Install 3.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 3.png" width="230"/></a>
 
+<br/>
+
+#### Step 2: Installing Digispark Drivers
 
 
 <br/>
 
-## Programming
+## Coding
 
 <br/>
 
