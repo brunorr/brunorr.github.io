@@ -66,7 +66,7 @@ In the *Boards Manager* window, select the *"Contributed"* type from the drop do
 
 <a href="../img/BadUSB - Install 2.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 2.png" width="600"/></a>
 
-Now you can select
+With all previous configuration done, we now have the option to select a Digispark board in the *Tools -> Board*. We will use the *Digispark (Default - 16.5mhz)* one.
 
 <a href="../img/BadUSB - Install 3.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 3.png" width="230"/></a>
 
