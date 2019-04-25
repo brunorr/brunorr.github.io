@@ -81,7 +81,7 @@ Now you can select
 
 <br/>
 
-## Additional: Fast boot
+## Making it Fast! (boot)
 
 <br/>
 
