@@ -72,7 +72,7 @@ With all previous configuration done, we now have the option to select a Digispa
 
 With the IDE set up, let's install the Digispark drivers so the IDE can detect and communicate with the board.
 
-
+<div class="spacer"></div>
 #### Step 2: Installing Digispark Drivers
 
 
