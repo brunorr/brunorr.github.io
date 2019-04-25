@@ -39,7 +39,7 @@ All that i used for this project was:
 
 <div class="spacer"></div>
 
-### Step 1: Installing & Configuring Arduino IDE
+#### Step 1: Installing & Configuring Arduino IDE
 
 First we gonna install Arduino IDE to write our code and then upload it to out Digispark. 
 
