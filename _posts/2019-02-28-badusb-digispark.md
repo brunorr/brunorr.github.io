@@ -43,30 +43,30 @@ All that i used for this project was:
 
 First we gonna install Arduino IDE to write our code and then upload it to out Digispark. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software) and download the right setup file for your OS. While installing, there's no need to change the default options, besides the directory you want to install it.
+Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software) and download the right setup file for your OS. While installing, there's no need to change the default options, besides the directory you want to install it.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After installed, open Arduino IDE and go to:
+After installed, open Arduino IDE and go to:
 ```perl
  File -> Preferences -> Additional Board Manager URLs
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And add the following url in the *Additional Board Manager* field:
+And add the following url in the *Additional Board Manager* field:
 ```perl
  http://digistump.com/package_digistump_index.json
 ```
 
 <a href="../img/BadUSB - Install 1.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 1.png" width="600"/> </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now, go to:
+Now, go to:
 ```perl
  Tools -> Board -> Boards Manager
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, select **Digistump AVR Boards** package and install it.
+In the *Boards Manager* window, select the *"Contributed"* type from the drop down menu, select **Digistump AVR Boards** package and install it.
 
 <a href="../img/BadUSB - Install 2.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 2.png" width="600"/></a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Now you can select
+Now you can select
 
 <a href="../img/BadUSB - Install 3.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 3.png" width="230"/></a>
 
