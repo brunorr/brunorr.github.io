@@ -28,7 +28,7 @@ All that i used for this project was:
 
 * 1x Digispark
 
-<img src="../img/BadUSB - Digispark.jpg" width="200"/>
+<a href=""> <img src="../img/BadUSB - Digispark.jpg" width="200"/> </a>
 
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
