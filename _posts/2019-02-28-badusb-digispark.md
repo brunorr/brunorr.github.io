@@ -70,6 +70,8 @@ With all previous configuration done, we now have the option to select a Digispa
 
 <a href="../img/BadUSB - Install 3.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 3.png" width="230"/></a>
 
+With the IDE set up, let's install the Digispark drivers so the IDE can detect and communicate with the board.
+
 <br/>
 
 #### Step 2: Installing Digispark Drivers
