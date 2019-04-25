@@ -39,9 +39,9 @@ All that i used for this project was:
 
 <div class="spacer"></div>
 
-#### &nbsp;&nbsp;&nbsp; Step 1: Installing and Configuring Arduino IDE
+Step 1: Installing and Configuring Arduino IDE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; First we gonna install Arduino IDE to write our code and then upload it to out Digispark. 
+First we gonna install Arduino IDE to write our code and then upload it to out Digispark. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Go to the Arduino official [site](https://www.arduino.cc/en/Main/Software) and download the right setup file for your OS. While installing, there's no need to change the default options, besides the directory you want to install it.
 
