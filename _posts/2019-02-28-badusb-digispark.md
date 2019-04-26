@@ -93,7 +93,7 @@ You could start reading a little bit about the environment and language [here](h
 
 #### Hello World
 
-```arduino
+```perl
 #include "DigiKeyboard.h"
 
 void setup() {
