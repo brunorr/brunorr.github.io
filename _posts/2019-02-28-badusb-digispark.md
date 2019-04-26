@@ -103,7 +103,7 @@ Delays are very important and require a fine tunning, a missing character can, a
 #include "DigiKeyboard.h"
 
 void setup() {
-  DigiKeyboard.sendKeyStroke(0);   // Prevent missing the first character/key stroke after a delay
+  DigiKeyboard.sendKeyStroke(0);   // Prevent missing the first character/key stroke
   delay(1000);                     // This delay can't be lower than 1 second
 
   
