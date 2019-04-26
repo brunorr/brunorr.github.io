@@ -75,14 +75,14 @@ With the IDE set up, let's install the Digispark drivers so the IDE can detect a
 <div class="spacer"></div>
 #### Step 2: Installing Digispark Drivers (Windows)
 
-Download the latest (that i'm aware of) [here](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip).
+Download the latest (that i'm aware of) drivers [here](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip).
 
 
 
 <div class="spacer"></div>
 #### Step 2: Installing Digispark Drivers (Linux)
 
-I haven't tried on linux yet. Will try realy soon.
+I haven't tried on linux yet. Will be doing this realy soon.
 
 
 <br/>
