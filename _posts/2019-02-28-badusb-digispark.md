@@ -93,6 +93,12 @@ You could start reading a little bit about the environment and language [here](h
 
 #### Hello World
 
+For our first code, we will only use the *delay*, *print* and *sendKeyStroke* functions. The code below will open the *Execute* window throut it's shorcut, type notepad, press enter and write our text on it.
+
+While writing your code, keep an eye in the delay times. If you are opening a program, and then writing something in it, the delay can't be too short so that our writing starts before window has opened. Even if the timing is working perfectly on your computer, it may not work on the target computer. If it's a slower computer, the delays needs have a higher value, but not so much that takes over 1 minute to run the entiry script.
+
+Delays are very important and require a fine tunning, a missing character can (and will) break the "flow" of your script logic while executing.
+
 ```Arduino
 #include "DigiKeyboard.h"
 
@@ -110,7 +116,6 @@ void setup() {
   delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   delay(1000);
-
 
   /**  Write Text  **/
   DigiKeyboard.println("Hello World");  
