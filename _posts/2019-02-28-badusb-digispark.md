@@ -93,7 +93,7 @@ You could start reading a little bit about the environment and language [here](h
 
 #### Hello World
 
-```arduino {.line-numbers}
+```arduino
 #include "DigiKeyboard.h"
 
 void setup() {
