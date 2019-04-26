@@ -126,6 +126,22 @@ void setup() {
 }
 ```
 
+Now it's finally time to get your Digispark and upload the script you just created. If you have him already plugged in your computer, first remove it, or it wont work.
+
+By default, every time a Digispark is powered (just connected to a USB), it'll wait 5(ish) seconds looking for communication attempts, like a new script upload request, and only after that it will run the script that he has in his memory.
+
+So... With the Digispark disconnected, click in the "Upload" button (or CTRL+U), wait for the following message appear:
+
+img(connect digi)
+
+Now you can connect you Digispark so out hello world script get's uploaded. After a few seconds, if everything goes right, the following message should show up:
+
+img(uploaded)
+
+Time to test if our script runs fine.
+
+(gif DS running hello world)
+
 
 #### Rubber Ducky Scripts to Digispark
 
