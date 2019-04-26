@@ -130,7 +130,7 @@ Now it's finally time to get your Digispark and upload the script you just creat
 
 By default, every time a Digispark is powered (just connected to a USB), it'll wait 5(ish) seconds looking for communication attempts, like a new script upload request, and only after that it will run the script that he has in his memory.
 
-So... With the Digispark disconnected, click in the "Upload" button (or CTRL+U), wait for the following message appear:
+So... With the Digispark disconnected, click in the "Upload" button (or CTRL+U), and wait for the following message appear:
 
 img(connect digi)
 
