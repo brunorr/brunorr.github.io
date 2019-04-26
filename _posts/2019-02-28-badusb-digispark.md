@@ -83,6 +83,10 @@ I haven't tried on linux yet. Will be doing this really soon.
 <div class="spacer"></div>
 ## Coding
 
+#### Hello World
+
+#### Rubber Ducky Scripts to Digispark
+
 
 <div class="spacer"></div>
 ## Making it Fast! (boot)
