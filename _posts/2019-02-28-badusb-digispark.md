@@ -85,7 +85,7 @@ I haven't tried on linux yet. Will be doing this really soon.
 <div class="spacer"></div>
 ## Coding
 
-There's varius libraries available to Digispark. We will be using the **Digikeyboard.h** library in order to simulate a new keyboard plugged in the machine.
+There's varius libraries available to Digispark. We will be using the ***Digikeyboard.h*** library in order to simulate a new keyboard plugged in the machine.
 
 I will not explain about the Arduino, it's IDE or commmands, there are many great tutorials on the internet, much better ones then i could write. :)
 
