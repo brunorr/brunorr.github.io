@@ -59,7 +59,7 @@ And add the following url in the *Additional Board Manager* field:
 <a href="../img/BadUSB - Install 1.png" data-toggle="lightbox"> <img class="img-center" src="../img/BadUSB - Install 1.png" width="600"/> </a>
 
 Now, go to:
-```perl
+```html
  Tools -> Board -> Boards Manager
 ```
 
