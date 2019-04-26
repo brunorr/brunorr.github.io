@@ -33,8 +33,9 @@ All that i used for this project was:
 * 1x Jumper wire F/F (Only needed for the fastboot mod)
 
 <a href="../img/BadUSB - JumperFF.jpg" data-toggle="lightbox"> <img src="../img/BadUSB - JumperFF.jpg" width="200"/> </a>
-<div class="spacer"></div>
 
+
+<div class="spacer"></div>
 ## Drivers and software instalation
 
 <div class="spacer"></div>
@@ -80,10 +81,19 @@ Download the latest (that i'm aware of) drivers [here](https://github.com/digist
 
 I haven't tried on linux yet. Will be doing this really soon.
 
+
 <div class="spacer"></div>
 ## Coding
 
+There's varius libraries available to Digispark. We will be using the **Digikeyboard.h** library in order to simulate a new keyboard plugged in the machine.
+
+I will not explain about the Arduino, it's IDE or commmands, there are many great tutorials on the internet, much better ones then i could write. :)
+
+You could start reading a little bit about the environment and language [here](https://www.arduino.cc/en/Guide/Environment) and [here](https://www.arduino.cc/reference/en/).
+
 #### Hello World
+
+
 
 #### Rubber Ducky Scripts to Digispark
 
