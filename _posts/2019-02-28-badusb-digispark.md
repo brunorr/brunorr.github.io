@@ -85,7 +85,7 @@ Download the latest (that i'm aware of) drivers [here](https://github.com/digist
 I haven't tried on linux yet. Will be doing this really soon.
 
 <div class="spacer"></div>
-## The Fun Part: Coding
+## Coding
 
 
 <div class="spacer"></div>
