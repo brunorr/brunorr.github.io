@@ -72,29 +72,27 @@ With all previous configuration done, we now have the option to select a Digispa
 
 With the IDE set up, let's install the Digispark drivers so the IDE can detect and communicate with the board.
 
+
 <div class="spacer"></div>
 #### Step 2: Installing Digispark Drivers (Windows)
 
-Download the latest (that i'm aware of) drivers [here](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip). If you have a 32bit system, use the *DPinst.exe* installation, and *DPinst64.exe* for a 64bit.
-
+Download the latest (that i'm aware of) drivers [here](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip). If you have a 32bit system, use the *DPinst.exe* installation file, and *DPinst64.exe* for a 64bit system.
 
 
 <div class="spacer"></div>
 #### Step 2: Installing Digispark Drivers (Linux)
 
-I haven't tried on linux yet. Will be doing this realy soon.
+I haven't tried on linux yet. Will be doing this really soon.
+
+<div class="spacer"></div>
+## The Fun Part: Coding
 
 
-<br/>
-
-## Coding
-
-<br/>
-
+<div class="spacer"></div>
 ## Making it Fast! (boot)
 
-<br/>
 
+<div class="spacer"></div>
 ## References
 
 - [https://www.arduino.cc](https://www.arduino.cc)
