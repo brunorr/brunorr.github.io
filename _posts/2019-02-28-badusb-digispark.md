@@ -102,11 +102,11 @@ void setup() {
 
   
   /**  Open Execute window  **/
-  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);   // Windows Key + R
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);   // Send Windows Key + R
   delay(500);                                        // Delay in miliseconds
   
   /**  Write the Program Name  **/
-  DigiKeyboard.print("notepad");
+  DigiKeyboard.print("notepad");                     // Will "type" notepad on whatever window is active 
   delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   delay(1000);
