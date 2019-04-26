@@ -93,6 +93,33 @@ You could start reading a little bit about the environment and language [here](h
 
 #### Hello World
 
+```arduino {.line-numbers}
+#include "DigiKeyboard.h"
+
+void setup() {
+  DigiKeyboard.sendKeyStroke(0);  // Prevent missing the first character/key stroke after a delay
+  DigiKeyboard.delay(1000);       // This delay can't be lower than 1 second
+
+  
+  /**  Open Execute window  **/
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
+  DigiKeyboard.delay(500);
+  
+  DigiKeyboard.print("notepad");
+  DigiKeyboard.delay(250);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  DigiKeyboard.delay(1000);
+
+
+  /**  Write  **/
+  DigiKeyboard.println("Hello World");
+  
+  DigiKeyboard.delay(250);
+  DigiKeyboard.sendKeyStroke(KEY_ENTER);
+  
+  DigiKeyboard.print("It's working =)");
+}
+```
 
 
 #### Rubber Ducky Scripts to Digispark
