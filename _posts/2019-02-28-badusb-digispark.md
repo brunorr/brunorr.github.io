@@ -97,23 +97,23 @@ You could start reading a little bit about the environment and language [here](h
 #include "DigiKeyboard.h"
 
 void setup() {
-  DigiKeyboard.sendKeyStroke(0);  // Prevent missing the first character/key stroke after a delay
-  DigiKeyboard.delay(1000);       // This delay can't be lower than 1 second
+  DigiKeyboard.sendKeyStroke(0);   // Prevent missing the first character/key stroke after a delay
+  delay(1000);                     // This delay can't be lower than 1 second
 
   
   /**  Open Execute window  **/
-  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
-  delay(500);
+  DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);   // Windows Key + R
+  delay(500);                                        // Delay in miliseconds
   
+  /**  Write the Program Name  **/
   DigiKeyboard.print("notepad");
   delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   delay(1000);
 
 
-  /**  Write  **/
-  DigiKeyboard.println("Hello World");
-  
+  /**  Write Text  **/
+  DigiKeyboard.println("Hello World");  
   delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   
