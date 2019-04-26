@@ -103,21 +103,21 @@ void setup() {
   
   /**  Open Execute window  **/
   DigiKeyboard.sendKeyStroke(KEY_R, MOD_GUI_LEFT);
-  DigiKeyboard.delay(500);
+  delay(500);
   
   DigiKeyboard.print("notepad");
-  DigiKeyboard.delay(250);
+  delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
-  DigiKeyboard.delay(1000);
+  delay(1000);
 
 
   /**  Write  **/
   DigiKeyboard.println("Hello World");
   
-  DigiKeyboard.delay(250);
+  delay(250);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   
-  DigiKeyboard.print("It's working =)");
+  DigiKeyboard.print("It's working!!!  =)");
 }
 ```
 
