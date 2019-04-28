@@ -22,7 +22,7 @@ But that's enough of talking, let's go to the fun part... but first:
 **Warning 2:** I hold no responsability if any problems that may happen while you are following this post. From a brick Digispark to whatever you did wrong. =P
 <div class="spacer"></div>
 
-## Hardware Used
+## :: Hardware Used
 
 All that i used for this project was:
 
@@ -36,11 +36,11 @@ All that i used for this project was:
 
 
 <div class="spacer"></div>
-## Drivers and software instalation
+## :: Drivers and software instalation
 
 <div class="spacer"></div>
 
-#### Step 1: Installing & Configuring Arduino IDE
+#### ::. Step 1: Installing & Configuring Arduino IDE
 
 First we gonna install Arduino IDE to write our code and then upload it to out Digispark. 
 
@@ -73,17 +73,17 @@ With all previous configuration done, we now have the option to select a Digispa
 
 With the IDE set up, let's install the Digispark drivers so the IDE can detect and communicate with the board.
 
-#### Step 2: Installing Digispark Bootloader Drivers (Windows)
+#### ::. Step 2: Installing Digispark Bootloader Drivers (Windows)
 
 Download the latest (that i'm aware of) drivers [here](https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/Digistump.Drivers.zip). If you have a 32bit system, use the *DPinst.exe* installation file, and *DPinst64.exe* for a 64bit system.
 
-#### Step 2: Installing Digispark Bootloader Drivers (Linux)
+#### ::. Step 2: Installing Digispark Bootloader Drivers (Linux)
 
 I haven't tried on linux yet. Will be doing this really soon.
 
 
 <div class="spacer"></div>
-## Coding
+## :: Coding
 
 There's varius libraries available to Digispark. We will be using the ***Digikeyboard.h*** library in order to simulate a new keyboard plugged in the machine.
 
@@ -91,7 +91,7 @@ I will not explain about the Arduino, it's IDE or commmands, there are many grea
 
 You could start reading a little bit about the environment and language [here](https://www.arduino.cc/en/Guide/Environment) and [here](https://www.arduino.cc/reference/en/).
 
-#### Hello World
+#### ::. Hello World
 
 For our first code, we will only use the *delay()*, *print()* and *sendKeyStroke()* functions. The code below will open the *Execute* window throut it's shorcut, type notepad, press enter and write our text on it.
 
