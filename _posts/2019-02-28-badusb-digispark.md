@@ -147,7 +147,7 @@ Time to test if our script runs fine.
 
 
 <div class="spacer"></div>
-## Making it Fast! (boot)
+## Making it (boot) Fast! 
 
 
 <div class="spacer"></div>
