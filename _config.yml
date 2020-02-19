@@ -24,8 +24,7 @@ navbar-links:
     - Posts: "blog"
     - Tags: "tags"
   Projects:
-    - C&C for Pentest[?]: ""
-    - SQLMAP Output Viewer: ""
+    - HTB Scripts: ""    
   Write-Ups:
     - [Coming Soon]: "tags#a"    
 
